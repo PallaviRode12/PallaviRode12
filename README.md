@@ -5,7 +5,7 @@ An enthusiastic Quality Assurance (QA) Tester specializing in both manual and au
 Software Quality Assurance l QA Automation 
 
 🌱 I’m currently learning:
- Generative AI l Selenium WebDriver with Java
+ Selenium WebDriver with Java
 TestNG Framework
 Postman for API Testing
 JIRA for Bug Tracking

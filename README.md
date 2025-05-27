@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @PallaviRode12
-- 👀  ...
-- 🌱 I’m currently learning Software Testing...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: She/her...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @PallaviRode12
+An enthusiastic Quality Assurance (QA) Tester specializing in both manual and automation testing. I am committed to ensuring software excellence and delivering seamless user experiences.
 
-<!---
-PallaviRode12/PallaviRode12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in:
+Software Quality Assurance l QA Automation 
+
+🌱 I’m currently learning:
+ Generative AI l Selenium WebDriver with Java
+TestNG Framework
+Postman for API Testing
+JIRA for Bug Tracking
+Git & GitHub for Version Control
+
+
+💞️ I’m looking to collaborate on:
+Open-source QA projects
+
+LinkedIn
+
+📫 How to reach me:
+📧 Email: [pallavirode07@gmail.com]
+
+🔗 LinkedIn: [linkedin.com/in/pallavirode07]
+
+😄 Pronouns:
+She/Her
+
+⚡ Fun fact:
+I have a knack for uncovering hidden bugs and enjoy turning complex testing scenarios into streamlined processes.
+
+
+
+

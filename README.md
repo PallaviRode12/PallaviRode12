@@ -4,12 +4,13 @@ An enthusiastic Quality Assurance (QA) Tester specializing in both manual and au
 👀 I’m interested in:
 Software Quality Assurance l QA Automation 
 
-🌱 I’m currently learning:
- Selenium WebDriver with Java
-TestNG Framework
-Postman for API Testing
-JIRA for Bug Tracking
-Git & GitHub for Version Control
+🌱 I’m currently learning: 
+ 
+-Selenium WebDriver with Java
+-TestNG Framework
+-Postman for API Testing
+-JIRA for Bug Tracking
+-Git & GitHub for Version Control
 
 
 💞️ I’m looking to collaborate on:

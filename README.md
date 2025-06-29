@@ -4,7 +4,7 @@ An enthusiastic Quality Assurance (QA) Tester specializing in both manual and au
 👀 I’m interested in:
 Software Quality Assurance l QA Automation 
 
-🌱 I’m currently learning: Software Testing
+🌱 I’m currently learning: Generative AI, 
 
 💞️ I’m looking to collaborate on:
 Open-source QA projects
